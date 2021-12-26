@@ -4,7 +4,7 @@ Information about development new bot version
 
 ## Roadmap
 
-* [ ] Bot release (February 2022)
+* [ ] Bot release
 * [ ] Website release
 * [ ] Support Guild release
 
