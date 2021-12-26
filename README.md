@@ -11,7 +11,7 @@ Information about development new bot version
 
 ## ToDo (Bot)
 
-* [ ] Bugfixs
+* [ ] Bugfixes
 * [ ] Weddings
 * [ ] Global economy
   * [ ] Promo-codes
