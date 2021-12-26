@@ -4,10 +4,9 @@ Information about development new bot version
 
 ## Roadmap
 
-* [ ] Bot pre-release (February 2022)
+* [ ] Bot release (February 2022)
 * [ ] Website pre-release
 * [ ] Support Guild pre-release
-* [ ] Project release
 
 ## ToDo (Bot)
 
