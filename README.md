@@ -14,7 +14,6 @@ Information about development new bot version
 * [ ] Weddings
 * [ ] Global economy
   * [ ] Promo-codes
-* [ ] Hire second developer
 * [ ] New design
 * [ ] Blacklist
 * [ ] Achievements
