@@ -26,7 +26,9 @@ Information about development new bot version
   * [ ] "idea"
   * [ ] "bug"
   * [ ] "set-bio"
-* [ ] Add to 2 monitorings (BotiCord, SDC)
+* [ ] Add to 2 monitorings
+  * [ ] BotiCord
+  * [ ] SDC
 
 ## ToDo (Website)
 
