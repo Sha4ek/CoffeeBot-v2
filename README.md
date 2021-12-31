@@ -10,7 +10,7 @@ Information about development new bot version
 
 ## ToDo (Bot)
 
-* [ ] Bugfixes
+* [×] Bugfixes
 * [ ] Weddings
 * [ ] Global economy
   * [ ] Promo-codes
@@ -26,9 +26,11 @@ Information about development new bot version
   * [ ] "idea"
   * [ ] "bug"
   * [ ] "set-bio"
-* [ ] Add to 2 monitorings
+* [ ] Add to monitorings
   * [ ] BotiCord
   * [ ] SDC
+* [ ] Optional
+  * [ ] Anime news
 
 ## ToDo (Website)
 
