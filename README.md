@@ -17,7 +17,7 @@ Information about development new bot version
 * [ ] New design
 * [ ] Blacklist
 * [ ] Achievements
-* [ ] Slash commands
+* [x] Slash commands
 * [ ] New commands
   * [ ] "ignore-channel"
   * [ ] "emoji-info"
