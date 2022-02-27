@@ -15,7 +15,7 @@ Information about development new bot version
 * [ ] Global economy
   * [ ] Promo-codes
 * [ ] New design
-* [ ] Blacklist
+* [x] Blacklist
 * [ ] Achievements
 * [x] Slash commands
 * [ ] New commands
